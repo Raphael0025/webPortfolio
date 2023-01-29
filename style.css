@@ -267,7 +267,7 @@ footer{
   padding: 1rem;
   color: var(--plain-color);
 }
-@media screen and (max-width: 395px) {
+@media screen and (max-width: 415px) {
   *{
     overflow-x: hidden;
   }
